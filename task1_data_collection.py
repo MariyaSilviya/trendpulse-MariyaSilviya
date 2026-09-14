@@ -3,7 +3,6 @@ import json
 import os
 import time
 from datetime import datetime
-import re 
 
 # URLS
 STORIES_URL="https://hacker-news.firebaseio.com/v0/topstories.json"
